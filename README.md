@@ -23,7 +23,8 @@ En studio ou en reportage, un photographe veut voir ses images sur l'ordinateur 
 
   ![Réglages : dossier de réception, types de fichiers, options](docs/reglages.png)
 
-- **Explorateur intégré** : dossiers avec compteurs, vignettes extraites des RAW (NEF), aperçu plein écran au clavier, lecture vidéo, historique, tri et recherche, actions de fichiers (renommer, déplacer, corbeille, « Ouvrir avec… »).
+- **Explorateur intégré** : dossiers avec compteurs, vignettes extraites des RAW (NEF), aperçu plein écran au clavier, lecture vidéo, tri (date, nom, taille) et recherche.
+- **Gestion des photos et des dossiers** : créer, renommer, déplacer, mettre à la corbeille, « Afficher dans le dossier », « Ouvrir avec… » une application installée. Sélection multiple, menu clic droit, glisser‑déposer, raccourcis F2 et Suppr. La corbeille est celle du système, donc tout reste récupérable.
 - **Fiabilité** : reprise d'un transfert interrompu à l'octet près, reconnexion automatique, doublons « carte 2 » ignorés.
 - **Informations de prise de vue** : ouverture, vitesse, ISO, objectif, mode, mesure, lus directement dans le fichier RAW.
 
