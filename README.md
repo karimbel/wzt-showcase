@@ -7,8 +7,7 @@ Application de bureau pour Windows, macOS et Linux.
 
 > Ce dépôt présente le projet. Le code source est privé ; je le montre volontiers en entretien.
 
-<!-- Ajoute ici 2 ou 3 captures : écran d'association, explorateur avec vignettes, réception en direct.
-![Explorateur WZT](docs/explorateur.png) -->
+![Association d'un Nikon Z8 en quatre étapes](docs/association.png)
 
 ---
 
@@ -21,8 +20,15 @@ En studio ou en reportage, un photographe veut voir ses images sur l'ordinateur 
 - **Association guidée** : WZT détecte l'ordinateur et le boîtier sur le réseau, affiche le modèle, le numéro de série et l'adresse IP, puis demande le code à 4 chiffres affiché par l'appareil. Plusieurs boîtiers peuvent être mémorisés.
 - **Réception en direct** : chaque photo prise arrive sur l'ordinateur, avec une barre de progression. Les fichiers sont rangés comme sur la carte (`Modèle/carte-N/DCIM/…`).
 - **Choix des fichiers** : RAW, JPEG, HEIF, vidéo, audio ; récupération des photos manquantes au moment de la connexion.
+
+  ![Réglages : dossier de réception, types de fichiers, options](docs/reglages.png)
+
 - **Explorateur intégré** : dossiers avec compteurs, vignettes extraites des RAW (NEF), aperçu plein écran au clavier, lecture vidéo, historique, tri et recherche, actions de fichiers (renommer, déplacer, corbeille, « Ouvrir avec… »).
 - **Fiabilité** : reprise d'un transfert interrompu à l'octet près, reconnexion automatique, doublons « carte 2 » ignorés.
+- **Informations de prise de vue** : ouverture, vitesse, ISO, objectif, mode, mesure, lus directement dans le fichier RAW.
+
+  ![Données EXIF affichées sous l'aperçu](docs/exif.png)
+
 - **Confort** : interface FR/EN, icône dans la barre système, notifications, lancement au démarrage, mises à jour automatiques signées, bouton « Copier les journaux » pour le support.
 
 ## Points techniques
