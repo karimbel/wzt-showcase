@@ -11,7 +11,7 @@ Application de bureau pour Windows, macOS et Linux.
 
 ---
 
-## Le problème
+## L'objectif
 
 En studio ou en reportage, un photographe veut voir ses images sur l'ordinateur au fil de la prise de vue. Nikon propose pour cela son propre utilitaire Wi‑Fi. WZT est une alternative indépendante, pensée pour le confort d'usage, avec un explorateur de photos intégré et une version pour chaque système. Le besoin vient du terrain : je suis photographe et formateur.
 
